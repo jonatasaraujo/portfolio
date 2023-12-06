@@ -1,0 +1,71 @@
+@media (min-width: 1590px) {
+}
+
+@media (min-width: 1435px) {
+}
+
+@media (max-width: 1925px) {
+}
+
+@media (max-width: 1605px) {
+}
+
+@media (max-width: 1445px) {
+}
+
+@media (max-width: 1370px) {
+}
+
+@media (max-width: 1290px) {
+}
+
+@media (max-width: 1210px) {
+}
+
+@media (max-width: 1030px) {
+}
+
+@media (min-width: 995px) and (max-width: 1080px) {
+}
+
+@media (max-width: 995px) {
+  body.slidein header.resMenu {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@media (max-width: 850px) {
+}
+
+@media (max-width: 770px) {
+}
+
+@media (max-width: 767px) {
+}
+
+@media (max-width: 577px) {
+  .aboutCap {
+    margin-top: 0.9375rem;
+  }
+  .aboutCap:before {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 0.9375rem solid var(--white);
+    left: 50%;
+    margin-left: -10px;
+    top: -0.9375rem;
+  }
+}
+
+@media (max-width: 490px) {
+}
+
+@media (max-width: 470px) {
+}
+
+@media (max-width: 430px) {
+}
+
+@media (max-width: 380px) {
+}
